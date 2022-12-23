@@ -1,0 +1,628 @@
+2022-12-23 14:57:34.681 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 14:57:35.382 +05:30  INF  Executed DbCommand (32ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 14:57:35.434 +05:30  INF  Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 14:57:35.439 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 14:57:35.440 +05:30  INF  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 14:57:35.481 +05:30  INF  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-12-23 14:57:35.502 +05:30  INF  No migrations were applied. The database is already up to date.
+2022-12-23 14:57:35.725 +05:30  INF  User profile is available. Using 'C:\Users\yashvakharia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-23 14:57:36.208 +05:30  INF  Now listening on: https://localhost:7191
+2022-12-23 14:57:36.208 +05:30  INF  Now listening on: http://localhost:5191
+2022-12-23 14:57:36.214 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-23 14:57:36.214 +05:30  INF  Hosting environment: Development
+2022-12-23 14:57:36.214 +05:30  INF  Content root path: C:\Users\yashvakharia\source\repos\Ajmera-Api\Ajmera-Api\
+2022-12-23 14:57:36.970 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2022-12-23 14:57:37.531 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2022-12-23 14:57:37.542 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 576.6634ms
+2022-12-23 14:57:37.542 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 10.9006ms
+2022-12-23 14:57:38.029 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2022-12-23 14:57:38.086 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 56.5672ms
+2022-12-23 14:57:39.657 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2022-12-23 14:57:40.193 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 536.2212ms
+2022-12-23 14:58:49.106 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 14:58:49.592 +05:30  INF  Executed DbCommand (28ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 14:58:49.638 +05:30  INF  Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 14:58:49.642 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 14:58:49.642 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 14:58:49.677 +05:30  INF  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-12-23 14:58:49.701 +05:30  INF  No migrations were applied. The database is already up to date.
+2022-12-23 14:58:49.827 +05:30  INF  User profile is available. Using 'C:\Users\yashvakharia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-23 14:58:50.014 +05:30  INF  Now listening on: https://localhost:7191
+2022-12-23 14:58:50.014 +05:30  INF  Now listening on: http://localhost:5191
+2022-12-23 14:58:50.017 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-23 14:58:50.017 +05:30  INF  Hosting environment: Development
+2022-12-23 14:58:50.017 +05:30  INF  Content root path: C:\Users\yashvakharia\source\repos\Ajmera-Api\Ajmera-Api\
+2022-12-23 14:58:50.822 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2022-12-23 14:58:51.151 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2022-12-23 14:58:51.163 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2022-12-23 14:58:51.168 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 16.5323ms
+2022-12-23 14:58:51.170 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 352.1531ms
+2022-12-23 14:58:51.190 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.7158ms
+2022-12-23 14:58:51.914 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2022-12-23 14:58:52.035 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 121.1890ms
+2022-12-23 17:34:56.283 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 17:34:56.741 +05:30  INF  Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 17:34:56.788 +05:30  INF  Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 17:34:56.791 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 17:34:56.792 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 17:34:56.825 +05:30  INF  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-12-23 17:34:56.845 +05:30  INF  No migrations were applied. The database is already up to date.
+2022-12-23 17:34:56.973 +05:30  INF  User profile is available. Using 'C:\Users\yashvakharia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-23 17:34:57.158 +05:30  INF  Now listening on: https://localhost:7191
+2022-12-23 17:34:57.158 +05:30  INF  Now listening on: http://localhost:5191
+2022-12-23 17:34:57.161 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-23 17:34:57.161 +05:30  INF  Hosting environment: Development
+2022-12-23 17:34:57.161 +05:30  INF  Content root path: C:\Users\yashvakharia\source\repos\Ajmera-Api\Ajmera-Api\
+2022-12-23 17:34:57.801 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2022-12-23 17:34:58.121 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 325.3439ms
+2022-12-23 17:34:58.124 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2022-12-23 17:34:58.131 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2022-12-23 17:34:58.132 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 8.2658ms
+2022-12-23 17:34:58.150 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 18.7008ms
+2022-12-23 17:34:59.586 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2022-12-23 17:34:59.769 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 182.5523ms
+2022-12-23 17:35:51.688 +05:30  INF  Request starting HTTP/2 POST https://localhost:7191/api/Book application/json 42
+2022-12-23 17:35:51.759 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 17:35:51.864 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 17:35:51.923 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 17:35:52.580 +05:30  INF  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-12-23 17:35:52.615 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 727.4485ms
+2022-12-23 17:35:52.616 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 17:35:52.634 +05:30  INF  Request finished HTTP/2 POST https://localhost:7191/api/Book application/json 42 - 400 - application/problem+json;+charset=utf-8 945.5217ms
+2022-12-23 17:55:58.945 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 17:55:59.559 +05:30  INF  Executed DbCommand (32ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 17:55:59.604 +05:30  INF  Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 17:55:59.608 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-12-23 17:55:59.608 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-12-23 17:55:59.641 +05:30  INF  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-12-23 17:55:59.659 +05:30  INF  No migrations were applied. The database is already up to date.
+2022-12-23 17:55:59.786 +05:30  INF  User profile is available. Using 'C:\Users\yashvakharia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-23 17:56:00.134 +05:30  INF  Now listening on: https://localhost:7191
+2022-12-23 17:56:00.134 +05:30  INF  Now listening on: http://localhost:5191
+2022-12-23 17:56:00.138 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-23 17:56:00.138 +05:30  INF  Hosting environment: Development
+2022-12-23 17:56:00.138 +05:30  INF  Content root path: C:\Users\yashvakharia\source\repos\Ajmera-Api\Ajmera-Api\
+2022-12-23 17:56:00.809 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2022-12-23 17:56:01.150 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2022-12-23 17:56:01.157 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 351.0450ms
+2022-12-23 17:56:01.158 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 7.6119ms
+2022-12-23 17:56:01.589 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2022-12-23 17:56:01.627 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.0629ms
+2022-12-23 17:56:02.500 +05:30  INF  Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2022-12-23 17:56:02.962 +05:30  INF  Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 462.5133ms
+2022-12-23 17:59:10.802 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 17:59:10.811 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 17:59:10.841 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 17:59:10.911 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:01:16.107 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:01:16.108 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:01:16.108 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:01:16.245 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:01:18.438 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:01:18.440 +05:30  INF  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:01:23.462 +05:30  INF  Get books api executing..
+2022-12-23 18:01:23.462 +05:30  INF  Get books api executing..
+2022-12-23 18:01:27.296 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:01:27.296 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:01:27.331 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 11209.9131ms
+2022-12-23 18:01:27.331 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 136484.5621ms
+2022-12-23 18:01:27.332 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:01:27.332 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:01:27.340 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 11232.5763ms
+2022-12-23 18:01:27.340 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 0 - application/json;+charset=utf-8 136543.6339ms
+2022-12-23 18:02:09.532 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123
+2022-12-23 18:02:09.533 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:02:09.549 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:02:09.551 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:02:10.356 +05:30  INF  Executed DbCommand (173ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:02:10.499 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:02:10.503 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 953.6721ms
+2022-12-23 18:02:10.505 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:02:10.508 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123 - 200 - application/json;+charset=utf-8 975.3254ms
+2022-12-23 18:02:33.341 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/52ee6cc9-10aa-4b21-a4e5-beac99a93330 application/json;+charset=utf-8 75
+2022-12-23 18:02:33.345 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:02:33.349 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:02:33.350 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:02:33.762 +05:30  INF  Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:02:33.781 +05:30  INF  Executing NotFoundObjectResult, writing value of type 'System.String'.
+2022-12-23 18:02:33.781 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 431.6656ms
+2022-12-23 18:02:33.781 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:02:33.782 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/52ee6cc9-10aa-4b21-a4e5-beac99a93330 application/json;+charset=utf-8 75 - 404 - text/plain;+charset=utf-8 441.9514ms
+2022-12-23 18:10:37.428 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:10:37.428 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:10:37.428 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:10:37.428 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:10:38.894 +05:30  INF  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:10:40.824 +05:30  INF  Get books api executing..
+2022-12-23 18:10:44.550 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:10:44.550 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 7122.354ms
+2022-12-23 18:10:44.550 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:10:44.551 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 7123.0005ms
+2022-12-23 18:10:58.954 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123
+2022-12-23 18:10:58.954 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:10:58.955 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:10:58.955 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:10:59.003 +05:30  INF  Executed DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:10:59.017 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:10:59.017 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 62.3153ms
+2022-12-23 18:10:59.017 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:10:59.017 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123 - 200 - application/json;+charset=utf-8 62.9603ms
+2022-12-23 18:11:21.151 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/6e7c2b72-574d-4aea-88d5-5c280084cffd application/json;+charset=utf-8 75
+2022-12-23 18:11:21.152 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:11:21.152 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:11:21.152 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:11:21.158 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:11:21.162 +05:30  INF  Executing NotFoundObjectResult, writing value of type 'System.String'.
+2022-12-23 18:11:21.163 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 11.1932ms
+2022-12-23 18:11:21.163 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:11:21.163 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/6e7c2b72-574d-4aea-88d5-5c280084cffd application/json;+charset=utf-8 75 - 404 - text/plain;+charset=utf-8 11.7299ms
+2022-12-23 18:11:55.127 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4
+2022-12-23 18:11:55.127 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:11:55.127 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:11:55.128 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:11:55.131 +05:30  INF  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-12-23 18:11:55.134 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 6.6205ms
+2022-12-23 18:11:55.134 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:11:55.134 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4 - 400 - application/problem+json;+charset=utf-8 7.2375ms
+2022-12-23 18:12:41.924 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:12:41.924 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:12:41.924 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:12:41.924 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:12:41.927 +05:30  INF  Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:12:41.929 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:12:41.929 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 5.5659ms
+2022-12-23 18:12:41.929 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:12:41.930 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 6.1064ms
+2022-12-23 18:13:10.372 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103
+2022-12-23 18:13:10.375 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:13:10.376 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:13:10.378 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:13:10.383 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:13:10.396 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:13:10.397 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 20.8917ms
+2022-12-23 18:13:10.397 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:13:10.397 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103 - 200 - application/json;+charset=utf-8 24.1929ms
+2022-12-23 18:13:34.795 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:13:34.795 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:13:34.795 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:13:34.796 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:13:34.797 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:13:34.799 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:13:34.799 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 3.9594ms
+2022-12-23 18:13:34.799 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:13:34.799 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 4.5398ms
+2022-12-23 18:13:49.212 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:13:49.212 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:13:49.212 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:13:49.213 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:13:49.214 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:13:49.214 +05:30  INF  Get books api executing..
+2022-12-23 18:13:49.214 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:13:49.214 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 1.9069ms
+2022-12-23 18:13:49.214 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:13:49.214 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 2.3695ms
+2022-12-23 18:15:17.150 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:15:17.150 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:15:17.150 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:15:17.151 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:15:17.153 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:15:17.153 +05:30  INF  Get books api executing..
+2022-12-23 18:15:17.153 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:15:17.153 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 2.9392ms
+2022-12-23 18:15:17.154 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:15:17.154 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 3.4312ms
+2022-12-23 18:15:17.194 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123
+2022-12-23 18:15:17.194 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:15:17.194 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:15:17.195 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:15:17.202 +05:30  INF  Executed DbCommand (6ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:15:17.214 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:15:17.215 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 20.3186ms
+2022-12-23 18:15:17.215 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:15:17.215 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123 - 200 - application/json;+charset=utf-8 21.0558ms
+2022-12-23 18:15:23.858 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/411ff06b-f751-4a2d-8052-161414b06905 application/json;+charset=utf-8 75
+2022-12-23 18:15:23.858 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:15:23.858 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:15:23.858 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:15:23.860 +05:30  INF  Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:15:23.862 +05:30  INF  Executing NotFoundObjectResult, writing value of type 'System.String'.
+2022-12-23 18:15:23.862 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 4.4675ms
+2022-12-23 18:15:23.862 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:15:23.863 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/411ff06b-f751-4a2d-8052-161414b06905 application/json;+charset=utf-8 75 - 404 - text/plain;+charset=utf-8 5.0019ms
+2022-12-23 18:15:50.885 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4
+2022-12-23 18:15:50.885 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:15:50.885 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:15:50.885 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:15:50.886 +05:30  INF  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-12-23 18:15:50.886 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 0.9803ms
+2022-12-23 18:15:50.886 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:15:50.886 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4 - 400 - application/problem+json;+charset=utf-8 1.3440ms
+2022-12-23 18:16:01.318 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:16:01.319 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:16:01.319 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:16:01.320 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:16:01.325 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:16:01.325 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:16:01.326 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 7.1678ms
+2022-12-23 18:16:01.326 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:16:01.326 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 7.7497ms
+2022-12-23 18:16:05.388 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103
+2022-12-23 18:16:05.388 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:16:05.388 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:16:05.389 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:16:05.392 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:16:05.403 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:16:05.404 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 14.981ms
+2022-12-23 18:16:05.404 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:16:05.404 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103 - 200 - application/json;+charset=utf-8 15.4666ms
+2022-12-23 18:16:06.646 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:16:06.646 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:16:06.646 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:16:06.647 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:16:06.648 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:16:06.649 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:16:06.649 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 3.0171ms
+2022-12-23 18:16:06.649 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:16:06.649 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 3.4193ms
+2022-12-23 18:16:06.656 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:16:06.657 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:16:06.657 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:16:06.657 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:16:06.658 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:16:06.658 +05:30  INF  Get books api executing..
+2022-12-23 18:16:06.658 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:16:06.658 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 1.6827ms
+2022-12-23 18:16:06.658 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:16:06.658 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 2.0846ms
+2022-12-23 18:20:45.504 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:20:45.505 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:20:45.505 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.505 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.507 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:20:45.507 +05:30  INF  Get books api executing..
+2022-12-23 18:20:45.507 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:20:45.507 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 2.6961ms
+2022-12-23 18:20:45.508 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:20:45.508 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 3.2571ms
+2022-12-23 18:20:45.539 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123
+2022-12-23 18:20:45.539 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:20:45.539 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.540 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.546 +05:30  INF  Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:20:45.548 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:20:45.548 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 8.8752ms
+2022-12-23 18:20:45.548 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:20:45.548 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123 - 200 - application/json;+charset=utf-8 9.5505ms
+2022-12-23 18:20:45.557 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/39cf2df4-bb9a-41cc-b726-6f529c48ad2f application/json;+charset=utf-8 75
+2022-12-23 18:20:45.557 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:20:45.557 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.559 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.563 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:20:45.566 +05:30  INF  Executing NotFoundObjectResult, writing value of type 'System.String'.
+2022-12-23 18:20:45.566 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 8.7349ms
+2022-12-23 18:20:45.566 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:20:45.567 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/39cf2df4-bb9a-41cc-b726-6f529c48ad2f application/json;+charset=utf-8 75 - 404 - text/plain;+charset=utf-8 9.8370ms
+2022-12-23 18:20:45.587 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4
+2022-12-23 18:20:45.587 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:20:45.588 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.589 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.589 +05:30  INF  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-12-23 18:20:45.590 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 1.9421ms
+2022-12-23 18:20:45.590 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:20:45.590 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4 - 400 - application/problem+json;+charset=utf-8 2.7442ms
+2022-12-23 18:20:45.647 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:20:45.647 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:20:45.647 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.648 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.652 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:20:45.658 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:20:45.660 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 12.6167ms
+2022-12-23 18:20:45.660 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:20:45.660 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 13.1394ms
+2022-12-23 18:20:45.669 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103
+2022-12-23 18:20:45.669 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:20:45.669 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.670 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.672 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:20:45.693 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:20:45.693 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 24.0229ms
+2022-12-23 18:20:45.693 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:20:45.693 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103 - 200 - application/json;+charset=utf-8 24.4666ms
+2022-12-23 18:20:45.700 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:20:45.700 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:20:45.700 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.700 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.703 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:20:45.704 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:20:45.705 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 4.7166ms
+2022-12-23 18:20:45.705 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:20:45.705 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 5.1437ms
+2022-12-23 18:20:45.710 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:20:45.711 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:20:45.711 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:20:45.711 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:20:45.712 +05:30  INF  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:20:45.712 +05:30  INF  Get books api executing..
+2022-12-23 18:20:45.712 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:20:45.712 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 1.4989ms
+2022-12-23 18:20:45.712 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:20:45.712 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 1.9923ms
+2022-12-23 18:21:18.148 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:21:18.148 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:21:18.148 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:21:18.149 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:21:18.152 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:21:18.152 +05:30  INF  Get books api executing..
+2022-12-23 18:21:18.152 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:21:18.152 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 4.0089ms
+2022-12-23 18:21:18.152 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:21:18.152 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 4.5669ms
+2022-12-23 18:21:18.190 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123
+2022-12-23 18:21:18.190 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:21:18.190 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:21:18.191 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:21:18.198 +05:30  INF  Executed DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:21:18.212 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:21:18.213 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 22.3104ms
+2022-12-23 18:21:18.213 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:21:18.213 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123 - 200 - application/json;+charset=utf-8 22.9059ms
+2022-12-23 18:21:18.237 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/6ed6bdf8-959c-463e-9797-fdf468810aca application/json;+charset=utf-8 75
+2022-12-23 18:21:18.237 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:21:18.237 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:21:18.238 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:21:18.243 +05:30  INF  Executed DbCommand (4ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:21:18.245 +05:30  INF  Executing NotFoundObjectResult, writing value of type 'System.String'.
+2022-12-23 18:21:18.245 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 7.9778ms
+2022-12-23 18:21:18.245 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:21:18.245 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/6ed6bdf8-959c-463e-9797-fdf468810aca application/json;+charset=utf-8 75 - 404 - text/plain;+charset=utf-8 8.6575ms
+2022-12-23 18:21:25.729 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4
+2022-12-23 18:21:25.729 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:21:25.729 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:21:25.729 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:21:25.730 +05:30  INF  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-12-23 18:21:25.730 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 0.9994ms
+2022-12-23 18:21:25.730 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:21:25.730 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4 - 400 - application/problem+json;+charset=utf-8 1.3522ms
+2022-12-23 18:22:02.645 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:22:02.646 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:22:02.647 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:22:02.647 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:22:02.650 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:22:02.651 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:22:02.651 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 4.3277ms
+2022-12-23 18:22:02.651 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:22:02.651 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 6.0247ms
+2022-12-23 18:22:02.668 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103
+2022-12-23 18:22:02.668 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:22:02.668 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:22:02.668 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:22:02.672 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:22:02.675 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:22:02.675 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 7.3672ms
+2022-12-23 18:22:02.675 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:22:02.676 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103 - 200 - application/json;+charset=utf-8 7.8995ms
+2022-12-23 18:22:02.695 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:22:02.695 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:22:02.695 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:22:02.696 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:22:02.697 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:22:02.699 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:22:02.699 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 4.0144ms
+2022-12-23 18:22:02.699 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:22:02.700 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 4.5537ms
+2022-12-23 18:22:02.716 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:22:02.716 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:22:02.716 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:22:02.716 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:22:02.717 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:22:02.717 +05:30  INF  Get books api executing..
+2022-12-23 18:22:02.717 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:22:02.717 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 1.6857ms
+2022-12-23 18:22:02.718 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:22:02.718 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 2.0433ms
+2022-12-23 18:28:11.311 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:28:11.311 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:28:11.311 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.312 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.314 +05:30  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:28:11.314 +05:30  INF  Get books api executing..
+2022-12-23 18:28:11.314 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:28:11.314 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 3.2303ms
+2022-12-23 18:28:11.314 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:28:11.315 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 3.7649ms
+2022-12-23 18:28:11.343 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123
+2022-12-23 18:28:11.344 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:28:11.345 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.352 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.359 +05:30  INF  Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:28:11.371 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:28:11.371 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 26.0281ms
+2022-12-23 18:28:11.371 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:28:11.371 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 123 - 200 - application/json;+charset=utf-8 28.1899ms
+2022-12-23 18:28:11.378 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/e3bb2591-6530-4040-aa3f-f91f45d835af application/json;+charset=utf-8 75
+2022-12-23 18:28:11.378 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:28:11.378 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.379 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.383 +05:30  INF  Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:28:11.384 +05:30  INF  Executing NotFoundObjectResult, writing value of type 'System.String'.
+2022-12-23 18:28:11.384 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 5.4429ms
+2022-12-23 18:28:11.384 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:28:11.384 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/e3bb2591-6530-4040-aa3f-f91f45d835af application/json;+charset=utf-8 75 - 404 - text/plain;+charset=utf-8 5.8483ms
+2022-12-23 18:28:11.393 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4
+2022-12-23 18:28:11.393 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:28:11.393 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.394 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.394 +05:30  INF  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2022-12-23 18:28:11.394 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 1.007ms
+2022-12-23 18:28:11.395 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:28:11.395 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 4 - 400 - application/problem+json;+charset=utf-8 1.3252ms
+2022-12-23 18:28:11.401 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:28:11.401 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:28:11.401 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.402 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.404 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:28:11.407 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:28:11.408 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 6.6522ms
+2022-12-23 18:28:11.408 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:28:11.408 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 7.2460ms
+2022-12-23 18:28:11.418 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103
+2022-12-23 18:28:11.418 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:28:11.418 +05:30  INF  Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBook(Ajmera_Api.Models.Book_DTO) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.420 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.422 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Book] ([Id], [AuthorName], [Name])
+VALUES (@p0, @p1, @p2);
+2022-12-23 18:28:11.424 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:28:11.425 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api) in 6.236ms
+2022-12-23 18:28:11.425 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.CreateBook (Ajmera-Api)'
+2022-12-23 18:28:11.425 +05:30  INF  Request finished HTTP/1.1 POST https://localhost:7191/api/Book/ application/json;+charset=utf-8 103 - 200 - application/json;+charset=utf-8 6.8525ms
+2022-12-23 18:28:11.431 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75
+2022-12-23 18:28:11.431 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:28:11.431 +05:30  INF  Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookById(System.Guid) on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.431 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.433 +05:30  INF  Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+WHERE [b].[Id] = @__id_0
+2022-12-23 18:28:11.434 +05:30  INF  Executing OkObjectResult, writing value of type 'Ajmera_Core.Domain.Book'.
+2022-12-23 18:28:11.434 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api) in 3.5534ms
+2022-12-23 18:28:11.435 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBookById (Ajmera-Api)'
+2022-12-23 18:28:11.435 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/bfb52c5d-1d73-4bd1-c764-08dae408ff2f application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 4.3083ms
+2022-12-23 18:28:11.443 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75
+2022-12-23 18:28:11.443 +05:30  INF  Executing endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:28:11.443 +05:30  INF  Route matched with {action = "GetBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBooks() on controller Ajmera_Api.Controllers.BookController (Ajmera-Api).
+2022-12-23 18:28:11.443 +05:30  INF  Entity Framework Core 6.0.1 initialized 'AjmeraDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: MigrationsAssembly=Ajmera-Api 
+2022-12-23 18:28:11.444 +05:30  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[AuthorName], [b].[Name]
+FROM [Book] AS [b]
+2022-12-23 18:28:11.445 +05:30  INF  Get books api executing..
+2022-12-23 18:28:11.445 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Ajmera_Core.Domain.Book, Ajmera-Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-23 18:28:11.445 +05:30  INF  Executed action Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api) in 2.1651ms
+2022-12-23 18:28:11.445 +05:30  INF  Executed endpoint 'Ajmera_Api.Controllers.BookController.GetBooks (Ajmera-Api)'
+2022-12-23 18:28:11.445 +05:30  INF  Request finished HTTP/1.1 GET https://localhost:7191/api/Book/ application/json;+charset=utf-8 75 - 200 - application/json;+charset=utf-8 2.6602ms

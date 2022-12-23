@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajmera-Api", "Ajmera-Api\Ajmera-Api.csproj", "{4CB9F62F-0651-476C-A44B-BDD52411B799}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{EEB0AC7A-E986-4CEF-846B-16C7031C18B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajmera-Core", "Ajmera-Core\Ajmera-Core.csproj", "{4D6EA9FE-0254-4FDA-A691-76ADEE1DF386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajmera-Data", "Ajmera-Data\Ajmera-Data.csproj", "{474B18DF-6A22-4778-AB7A-C21FCBDEAC67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajmera-Service", "Ajmera-Services\Ajmera-Service.csproj", "{F716EBD5-D030-4E78-AF8D-36CCADF99010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{E79BBC27-7A27-4A47-9DA7-5EBAFAAC0B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB9F62F-0651-476C-A44B-BDD52411B799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB9F62F-0651-476C-A44B-BDD52411B799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB9F62F-0651-476C-A44B-BDD52411B799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB9F62F-0651-476C-A44B-BDD52411B799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6EA9FE-0254-4FDA-A691-76ADEE1DF386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6EA9FE-0254-4FDA-A691-76ADEE1DF386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6EA9FE-0254-4FDA-A691-76ADEE1DF386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6EA9FE-0254-4FDA-A691-76ADEE1DF386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474B18DF-6A22-4778-AB7A-C21FCBDEAC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474B18DF-6A22-4778-AB7A-C21FCBDEAC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474B18DF-6A22-4778-AB7A-C21FCBDEAC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474B18DF-6A22-4778-AB7A-C21FCBDEAC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F716EBD5-D030-4E78-AF8D-36CCADF99010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F716EBD5-D030-4E78-AF8D-36CCADF99010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F716EBD5-D030-4E78-AF8D-36CCADF99010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F716EBD5-D030-4E78-AF8D-36CCADF99010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79BBC27-7A27-4A47-9DA7-5EBAFAAC0B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79BBC27-7A27-4A47-9DA7-5EBAFAAC0B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79BBC27-7A27-4A47-9DA7-5EBAFAAC0B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79BBC27-7A27-4A47-9DA7-5EBAFAAC0B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D6EA9FE-0254-4FDA-A691-76ADEE1DF386} = {EEB0AC7A-E986-4CEF-846B-16C7031C18B0}
+		{474B18DF-6A22-4778-AB7A-C21FCBDEAC67} = {EEB0AC7A-E986-4CEF-846B-16C7031C18B0}
+		{F716EBD5-D030-4E78-AF8D-36CCADF99010} = {EEB0AC7A-E986-4CEF-846B-16C7031C18B0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6896ABF4-87CF-421B-9AD3-23679D884AD6}
+	EndGlobalSection
+EndGlobal
